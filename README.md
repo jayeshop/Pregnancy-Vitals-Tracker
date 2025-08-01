@@ -6,13 +6,9 @@ An Android application built using **Kotlin**, **Jetpack Compose**, and **WorkMa
 
 ## 📱 Screenshots
 
-| Main Screen | Add Vitals Dialog |
-|-------------|--------------------|
-| ![Main Screen](screenshots/main_screen.png) | ![Dialog](screenshots/dialog.png) |
-
-| Notification | Permission Prompt |
-|--------------|-------------------|
-| ![Notification](screenshots/notification.png) | ![Permission](screenshots/permission.png) |
+| Main Screen | Add Vitals Dialog | Notification | Permission Prompt |
+|-------------|-------------------|--------------|-------------------|
+| ![Main Screen](screenshots/main_screen.png) | ![Dialog](screenshots/dialog.png) | ![Notification](screenshots/notification.png) | ![Permission](screenshots/permission.png) |
 
 ---
 
