@@ -28,7 +28,7 @@ An Android application built using **Kotlin**, **Jetpack Compose**, and **WorkMa
 - 🧠 Real-time **input validation**
 - 🔔 Supports **notification permission prompt** (Android 13+)
 - 🌗 Light/Dark mode compatible
-- 🚫 Prevents duplicate or empty entries
+- 🚫 Prevents empty entries
 
 ---
 
